@@ -1,0 +1,13 @@
+{
+  "name": "starlight-autogenerate-landing-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "astro build",
+    "dev": "astro dev"
+  },
+  "dependencies": {
+    "astro": "7.4.4",
+    "@astrojs/starlight": "0.42.8"
+  }
+}
